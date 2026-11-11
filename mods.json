@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "lista_version": 2,
+  "lista_version": 3,
   "actualizado": "2026-11-11",
   "app_version_minima": "2.0.0",
   "app_version_ultima": "2.0.0",
@@ -54,6 +54,15 @@
     {"nombre": "Bushcraft Gear - Rare Weapons [B41/B42]", "workshopId": "2432621382", "categoria": "Armas", "tipo": "opcional", "esCritico": false, "notas": "Complemento de Bushcraft Gear - Tools."},
     {"nombre": "Map Legend UI [B42\\41]", "workshopId": "2710167561", "categoria": "Interfaz", "tipo": "opcional", "esCritico": false, "notas": ""},
     {"nombre": "Garage Door Remote [B42/MP]", "workshopId": "3805416981", "categoria": "Construcción", "tipo": "opcional", "esCritico": false, "notas": "Mando para las puertas de Buildable Garage Doors.", "modIds": ["GarageRemote"]},
-    {"nombre": "'86 Oshkosh P19A + Military Trailers", "workshopId": "2566953935", "categoria": "Vehículos", "tipo": "opcional", "esCritico": false, "notas": "Necesita that DAMN Library."}
+    {"nombre": "'86 Oshkosh P19A + Military Trailers", "workshopId": "2566953935", "categoria": "Vehículos", "tipo": "opcional", "esCritico": false, "notas": "Necesita that DAMN Library."},
+    {"nombre": "Extended Placement Hotkeys", "workshopId": "3502344463", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Teclas para girar y alinear objetos al construir."},
+    {"nombre": "Vertical Ladders - [SP/MP B42]", "workshopId": "3783431286", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Escaleras de mano en paredes, para subir a tejados y torres."},
+    {"nombre": "Storage Upgrade B42.20 SP/MP", "workshopId": "3779243922", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Más capacidad en cajas y estanterías."},
+    {"nombre": "[B42] Water Pipes", "workshopId": "3546314080", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Tuberías de agua para la base y riego de cultivos. Solo se activa el mod principal (no la versión «Removed», que sirve para quitarlo).", "modIds": ["Waterpipes"]},
+    {"nombre": "Functional Appliances 2", "workshopId": "3042138819", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Electrodomésticos que se pueden construir. Va siempre junto a su parche de multijugador (el siguiente de la lista)."},
+    {"nombre": "Functional Appliances 2 - B42 Multiplayer Fix", "workshopId": "3791016998", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Parche para que Functional Appliances 2 funcione bien en multijugador. Necesita Functional Appliances 2."},
+    {"nombre": "Wooden Defenses - Palisades & Spikes [B42]", "workshopId": "3822168823", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Empalizadas y pinchos de madera."},
+    {"nombre": "Barricades, Doors, Windows, and Vehicles Hurt Zombies [Build 42]", "workshopId": "3402208866", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Los zombis se hacen daño al golpear barricadas, puertas, ventanas y coches."},
+    {"nombre": "toot's Base Defense", "workshopId": "3825722984", "categoria": "Construcción", "tipo": "nucleo", "esCritico": false, "notas": "Troneras, alambre de espino, trampas y minas para defender la base."}
   ]
 }
