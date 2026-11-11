@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "lista_version": 1,
+  "actualizado": "2026-11-11",
+  "app_version_minima": "2.0.0",
+  "app_version_ultima": "2.0.0",
+  "app_enlace": "https://github.com/munoaxe-blip/snoopboid-mods",
+  "coleccion": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837337178",
+  "mods": [
+    {"nombre": "ZombieBuddy", "workshopId": "3619862853", "categoria": "Núcleo", "tipo": "nucleo", "esCritico": true, "notas": "Obligatorio para Viewpoint. La app copia sus archivos y pone la opción de lanzamiento."},
+    {"nombre": "Project Viewpoint", "workshopId": "3809306528", "categoria": "Cámara", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "6282 3D models for Viewpoint", "workshopId": "3810302175", "categoria": "Cámara", "tipo": "nucleo", "esCritico": false, "notas": "Puede necesitar el arreglo temporal de la app hasta que el autor lo actualice.", "arregloTemporal": true},
+    {"nombre": "errorMagnifier", "workshopId": "2896041179", "categoria": "Utilidades", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Mod Update and Alert System", "workshopId": "3077900375", "categoria": "Utilidades", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Mod Load Order Sorter [b42]", "workshopId": "3423660713", "categoria": "Utilidades", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "[B42] Mod Manager", "workshopId": "3567084868", "categoria": "Utilidades", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "that DAMN Library", "workshopId": "3171167894", "categoria": "Núcleo", "tipo": "nucleo", "esCritico": true, "notas": "Librería necesaria para '93 Ford F-Series."},
+    {"nombre": "'93 Ford F-Series", "workshopId": "3073430075", "categoria": "Vehículos", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Skill Recovery Journal", "workshopId": "2503622437", "categoria": "Jugabilidad", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Has Been Read", "workshopId": "2544353492", "categoria": "Interfaz", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Proximity Inventory B42.20+", "workshopId": "2847184718", "categoria": "Interfaz", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Minimal Display Bars", "workshopId": "3775659041", "categoria": "Interfaz", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Weapon Condition Indicator", "workshopId": "3791797252", "categoria": "Interfaz", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "More Description For Traits [B42.20 FIX]", "workshopId": "3760271637", "categoria": "Interfaz", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Equipment UI [DISCONTINUED]", "workshopId": "2950902979", "categoria": "Interfaz", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Share Annotations", "workshopId": "2815560151", "categoria": "Multijugador", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Common Sense [B42.20+]", "workshopId": "3750253491", "categoria": "Jugabilidad", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Rain Cleans Blood", "workshopId": "2956146279", "categoria": "Jugabilidad", "tipo": "nucleo", "esCritico": false, "notas": ""},
+    {"nombre": "Authentic Z", "workshopId": "2335368829", "categoria": "Ropa", "tipo": "nucleo", "esCritico": false, "notas": "Solo se activa la variante «Authentic Z - Current».", "modIds": ["Authentic Z - Current"]},
+    {"nombre": "Bushcraft Gear - Tools", "workshopId": "2423906082", "categoria": "Jugabilidad", "tipo": "nucleo", "esCritico": false, "notas": ""}
+  ]
+}
